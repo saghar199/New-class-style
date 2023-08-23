@@ -3,14 +3,14 @@ html{
     color: aliceblue;
 }
 div h1{
-    color: blueviolet;
+    color: rgb(195, 187, 202);
     font-style: italic;
     font-weight: 100px;
 }
 .first{
-    color: rgb(132, 132, 230);
+    color: rgb(17, 17, 215);
 }
 .main {
-    font-size: medium;
+    font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
