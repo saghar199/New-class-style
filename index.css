@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(58, 66, 66);
+    color: aliceblue;
+}
+div h1{
+    color: blueviolet;
+    font-style: italic;
+}
+.first{
+    color: rgb(132, 132, 230);
+}
