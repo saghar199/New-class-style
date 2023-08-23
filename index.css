@@ -5,6 +5,7 @@ html{
 div h1{
     color: blueviolet;
     font-style: italic;
+    font-weight: 100px;
 }
 .first{
     color: rgb(132, 132, 230);
